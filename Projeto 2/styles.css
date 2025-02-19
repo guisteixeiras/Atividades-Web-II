@@ -1,0 +1,41 @@
+
+body {
+    display: flex;
+    background-color: rgb(0, 17, 43); 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    border-radius: 8px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+div {
+    left: 350px;
+    position: fixed;
+    padding: 200px;
+    background-color: rgba(88, 64, 105, 0.315);
+    justify-items: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 220px;
+}
+
+ol > li {
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: aqua;
+}
+
+.remover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(133, 133, 133, 0.185);
+    border-color: transparent;
+    margin: 10px;
+}

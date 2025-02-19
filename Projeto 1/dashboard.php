@@ -12,6 +12,6 @@
     <title>Sistema</title>
 </head>
 <body>
-    <h1>teagfasfasfasfas</h1>
+    <h1></h1>
 </body>
 </html>
